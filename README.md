@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmucheme
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Elements of computer Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Studying Software Engineering
+- 💞️ I’m looking to collaborate on diverse software development issues
 - 📫 How to reach me email:jmucheme@gmail.com facebook:@jmucheme instagram:@jmucheme twitter:@jmucheme  
 
 <!---
